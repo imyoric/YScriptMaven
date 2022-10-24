@@ -33,7 +33,7 @@ public class Main {
                     return;
                 }
             }else if(args[0].equals("-ver")){
-                addons.infoMsg("YScript Версия: Alpha 0.4ru");
+                addons.infoMsg("YScript Версия: Alpha 0.5ru");
                 return;
             }else if(args[0].equals("-print")){
                 addons.infoMsg(args[1]);
